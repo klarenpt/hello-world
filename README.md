@@ -1,2 +1,3 @@
 # hello-world
-Learning the ropes
+
+Oh the places MSDem has taken me. Here we are, learning something new.
